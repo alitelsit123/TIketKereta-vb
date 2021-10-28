@@ -1,0 +1,58 @@
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbprojAssemblyReference.cache
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPenjualan.resources
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTiket.resources
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Login.resources
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.cache
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.CoreCompileInputs.cache
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
+C:\VisualStudioProject\FinalProject\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormUtama.resources
+D:\code\vb\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+D:\code\vb\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+D:\code\vb\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+D:\code\vb\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPenjualan.resources
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTiket.resources
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormUtama.resources
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Login.resources
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.Cache
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+D:\code\vb\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbprojAssemblyReference.cache
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPenjualan.resources
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTiket.resources
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormUtama.resources
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Login.resources
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.cache
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.CoreCompileInputs.cache
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+C:\VisualStudioProject\FP_PBD\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+D:\code\vb\New folder\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe.config
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.exe
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.xml
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.pdb
+D:\code\vb\New folder\FP_PBD\FP_PBD\bin\Debug\FP_PBD.exe
+D:\code\vb\New folder\FP_PBD\FP_PBD\bin\Debug\FP_PBD.pdb
+D:\code\vb\New folder\FP_PBD\FP_PBD\bin\Debug\FP_PBD.xml
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbprojResolveAssemblyReference.cache
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormPenjualan.resources
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormTiket.resources
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.FormUtama.resources
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Login.resources
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Resources.resources
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.vbproj.GenerateResource.Cache
+D:\code\vb\New folder\FP_PBD\FP_PBD\obj\Debug\FP_PBD.Nota.resources
